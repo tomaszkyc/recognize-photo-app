@@ -1,0 +1,1 @@
+java -jar target/recognize-photo-app-1.0-SNAPSHOT.jar
